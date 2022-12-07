@@ -55,4 +55,6 @@
 
 ![unsuccessful_register](https://user-images.githubusercontent.com/49639065/206189374-75ee579d-7e3a-4ef4-8a4c-ac46cf6b5f89.PNG)
 
-- The system makes verification for unique username and unique email and if there is a duplicate it prints appropriate message
+## The system makes verification for unique username, unique email, password length, etc. If something is incorrectly entered, there is an appropriate message. 
+
+![prints](https://user-images.githubusercontent.com/49639065/206194177-01d89c9f-3eb5-4e07-a00d-fe347b835a9e.PNG)
