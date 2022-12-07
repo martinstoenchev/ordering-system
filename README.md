@@ -43,7 +43,7 @@
 
 ![my_profile_section](https://user-images.githubusercontent.com/49639065/206188170-e088a607-91ad-449e-8738-a9d0c535f6fa.PNG)
 
-## Message for successful Log Out. After that the user is redirect to the main view of the login page
+## Message for successful logout. After that the user is redirect to the main view of the login page
 
 ![logged_out](https://user-images.githubusercontent.com/49639065/206188769-7eec726a-10ec-4499-b592-2d28cd296c96.png)
 
