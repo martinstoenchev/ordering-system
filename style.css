@@ -1,0 +1,230 @@
+body{
+    margin: 0;
+    font: 14px sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#logo {
+  padding-left: 15px;
+}
+
+.wrapper{
+    padding: 5% 30%;
+}
+
+.my-style{
+  padding: 5% 20%;
+}
+
+.container {
+    padding: 0;
+}
+
+#trace {
+  font: 3rem 'Montserrat', sans-serif;
+  color: #495057
+}
+
+#trace_order {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  font-size: 20px;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+}
+
+#trace_btn {
+  padding: 8px;
+  margin-top: 25px;
+  font-size: 20px;
+  color: white;
+  background-color: rgb(0, 123, 255);
+  border: 1px solid rgb(0, 123, 255);
+  border-radius: 0.25rem;
+  cursor: pointer;
+}
+
+#no_order {
+  margin-top: 0.25rem;
+  font-size: 80%;
+  color: #dc3545
+}
+
+.my-control.is-invalid {
+  border: #dc3545;
+}
+
+#success-reg {
+    color: white;
+    font: 25px sans-serif;
+    text-align: center;
+    background-color: rgb(0, 123, 255);
+    border-color: rgb(0, 123, 255);
+    box-shadow: 0px 3px 0px 0px rgb(0, 123, 255);
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+#success-logout {
+  color: white;
+  font: 25px sans-serif;
+  text-align: center;
+  background-color: rgb(0, 123, 255);
+  border-color: rgb(0, 123, 255);
+  box-shadow: 0px 3px 0px 0px rgb(0, 123, 255);
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: rgb(0, 123, 255);
+}
+
+  .navbar a {
+    float: right;
+    font-size: 16px;
+    color: whitesmoke;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .dropdown {
+    float: right;
+    overflow: hidden;
+  }
+  
+  .dropdown .dropbtn {
+    font-size: 16px;  
+    border: none;
+    outline: none;
+    color: whitesmoke;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+  
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: whitesmoke;
+    color: black;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: rgb(0, 123, 255);
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    float: none;
+    color: whitesmoke;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown-content a:hover {
+    background-color: whitesmoke;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+table {
+  margin: 35px 0;
+  width: 100%;
+  font-size: 25px;
+}
+
+th {
+  padding: 5px;
+  text-align: left;
+}
+
+td {
+  padding: 8px;
+  font-size: 20px;
+  border: 2px solid #ced4da;
+  border-radius: 0.25rem;
+}
+
+#order_date {
+  padding: 10px;
+  text-align: center;
+  font-size: 25px;
+  color: white;
+  background-color: rgb(0, 123, 255);
+}
+
+.contacts {
+  font-size: 25px;
+}
+
+#contacts_table {
+  border: none;
+}
+
+.contacts_td {
+  border: none;
+}
+
+.mainLoginInput::-webkit-input-placeholder {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.mainLoginInput:-ms-input-placeholder {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.mainLoginInput:-moz-placeholder {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.mainLoginInput::-moz-placeholder {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#no_orders_in_q {
+  margin-top: 130px;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 10px;
+  text-align: center;
+  font-size: 25px;
+  color: white;
+  background-color: rgb(0, 123, 255);
+}
+
+#queue_btn {
+  padding: 8px;
+  font-size: 20px;
+  color: white;
+  background-color: rgb(0, 123, 255);
+  border: 1px solid rgb(0, 123, 255);
+  border-radius: 0.25rem;
+  cursor: pointer;
+}
+
+.td-queue {
+  text-align: center;
+  border: none;
+  border-bottom: 2px solid #ddd;
+}
+
+.th-queue {
+  text-align: center;
+  border-bottom: 2px solid #ddd;
+}
+
+.queue-table {
+  border-collapse: collapse;
+  width: 100%;
+}
