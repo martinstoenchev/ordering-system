@@ -27,6 +27,10 @@
 
 ![pending_status](https://user-images.githubusercontent.com/49639065/206186406-20aa77c6-a3e6-4253-acab-5329c53d241f.PNG)
 
+## If there is no order with the corresponding number
+
+![no_such_order](https://user-images.githubusercontent.com/49639065/206192208-47974abf-add4-4f03-a329-31a4b9342f1f.PNG)
+
 ## If the order is confirmed
 
 ![confirmed_order](https://user-images.githubusercontent.com/49639065/206187265-b763c595-8cd2-4848-ac0e-c5190bd3d5e7.PNG)
