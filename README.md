@@ -31,7 +31,7 @@
 
 ![no_such_order](https://user-images.githubusercontent.com/49639065/206192208-47974abf-add4-4f03-a329-31a4b9342f1f.PNG)
 
-## If the order is confirmed
+## If there is such an order and it's confirmed
 
 ![confirmed_order](https://user-images.githubusercontent.com/49639065/206187265-b763c595-8cd2-4848-ac0e-c5190bd3d5e7.PNG)
 
