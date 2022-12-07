@@ -1,4 +1,4 @@
-## Main view of the log in section
+## Main view of the login page
 
 ![login_view](https://user-images.githubusercontent.com/49639065/206170598-ffb8cea1-78c7-49e3-97c6-7af2b9bced68.PNG)
 
@@ -39,14 +39,13 @@
 
 ![my_profile_section](https://user-images.githubusercontent.com/49639065/206188170-e088a607-91ad-449e-8738-a9d0c535f6fa.PNG)
 
-## Message for successful Log Out. After that the user is redirect to the main view of the log in section
+## Message for successful Log Out. After that the user is redirect to the main view of the login page
 
 ![logged_out](https://user-images.githubusercontent.com/49639065/206188769-7eec726a-10ec-4499-b592-2d28cd296c96.png)
 
 ## View of the registration form
 
 ![register](https://user-images.githubusercontent.com/49639065/206189091-a00f3d8d-e080-4151-ae04-2b0821970521.PNG)
-
 
 ## If you try to register without any information
 
